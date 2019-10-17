@@ -42,3 +42,9 @@ hs_err_pid*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+#For Mac developers
+ Temp/
+ obj/
+ Build
+ Library/
