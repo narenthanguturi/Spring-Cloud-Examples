@@ -28,7 +28,7 @@ public class ServerApplication {
 
 		Team team = new Team();
 		team.setLocation("Harlem");
-		team.setName("Globetrotters");
+		team.setName("Globetrotter");
 		list.add(team);
 
 		team = new Team();
